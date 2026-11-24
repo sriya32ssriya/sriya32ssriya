@@ -110,9 +110,5 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sriya32ssriya&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriya32ssriya&theme=tokyo-night&hide_border=true" />
 </p>
