@@ -60,6 +60,11 @@ class Sriya:
         self.research_interests = ["Network Security", "AI for Security",
                                    "AI Agents", "IoT & UAV Security"]
         self.languages = ["C", "C++", "Python", "HTML"]
+        self.ml_stack = ["scikit-learn", "Pandas", "NumPy"]
+        self.security_tools = ["Linux", "Burp Suite", "Nmap", "Wireshark"]
+        self.tools = ["Git", "GitHub", "Ubuntu", "VS Code", "Windows"]
+        self.certification = "CompTIA Security+ (in progress)"
+        self.hackathons = ["Avinya Finalist, IIT Guwahati"]
         self.personality = ["Curious", "Loves complex challenges", "Digs deep"]
         self.free_time = "Building hands-on projects"
         self.connect = "linkedin.com/in/sriya-sudakshina-4ba80a327"
@@ -106,7 +111,7 @@ me.say_hi()
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0E0E0E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
