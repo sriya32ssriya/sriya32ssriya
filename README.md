@@ -77,7 +77,7 @@ me.say_hi()
 ### 📜 Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/CompTIA-In%20Progress-C8202F?style=for-the-badge&labelColor=1a1b27" alt="CompTIA certification in progress" />
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-C8202F?style=for-the-badge&labelColor=1a1b27" alt="CompTIA Security+ in progress" />
 </p>
 
 ---
