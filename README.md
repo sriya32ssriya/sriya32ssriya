@@ -16,7 +16,43 @@
 
 ### 🙋‍♀️ About Me
 
-Hi! I'm a **research enthusiast in network security** and its applications using **AI**. I love challenging myself with complex problems, lately by exploring **AI agents**, and I enjoy digging deep until I truly understand how things work. 🔍
+Hey there! 👋 I'm Sriya, a curious mind from **Hyderabad** who loves figuring out how systems can be broken, and how to make them stronger. 🛡️
+
+I'm in my 3rd year at **Amrita Vishwa Vidyapeetham**, specializing in **Cyber Security**. These days I'm most excited about **network security** and how **AI** can make it smarter. I'm the kind of person who can't leave a problem halfway. I keep digging until it finally makes sense. 🔍
+
+When I'm not in class, you'll usually find me **building hands-on projects** in my free time, trying out something new, or taking on a challenge that looks a little too hard at first. Right now that challenge is **AI agents**! 🤖
+
+<details>
+<summary><b>🔭 What I'm exploring right now</b> (click to open)</summary>
+<br>
+
+- 🤖 Building and experimenting with **AI agents**
+- 🧠 Using **machine learning** to detect network attacks
+- 🚁 Securing **IoT and drone (UAV)** communication
+
+</details>
+
+<details>
+<summary><b>🛠️ How I learn</b> (click to open)</summary>
+<br>
+
+- 💡 I learn best by **building things with my own hands**
+- 🧩 I enjoy breaking a complex problem into small pieces
+- 📚 I like reading research and then trying the ideas out myself
+
+</details>
+
+<details>
+<summary><b>💬 Talk to me about</b> (click to open)</summary>
+<br>
+
+Network security · AI for security · AI agents · Cryptography · Cool project ideas 🚀
+
+</details>
+
+<br>
+
+**And if you speak code, here's me in Python** 👇
 
 ```python
 class Sriya:
@@ -29,6 +65,7 @@ class Sriya:
                                    "AI Agents", "IoT & UAV Security"]
         self.languages = ["C", "C++", "Python", "JavaScript", "HTML"]
         self.personality = ["Curious", "Loves complex challenges", "Digs deep"]
+        self.free_time = "Building hands-on projects 🛠️"
         self.connect = "linkedin.com/in/sriya-sudakshina-4ba80a327"
 
     def say_hi(self):
