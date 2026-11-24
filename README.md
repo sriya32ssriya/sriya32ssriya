@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=3rd+Year+B.Tech+%40+Amrita+Vishwa+Vidyapeetham;Network+Security+Enthusiast+%F0%9F%94%90;Machine+Learning+Explorer+%F0%9F%A4%96;Building+secure+systems%2C+one+project+at+a+time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=3rd+Year+B.Tech+%40+Amrita+Vishwa+Vidyapeetham;Cyber+Security+Specialization+%F0%9F%94%90;Network+Security+%2B+AI+Research+%F0%9F%A4%96;Exploring+AI+Agents+%F0%9F%A7%A0;Building+secure+systems%2C+one+project+at+a+time" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,17 +16,19 @@
 
 ### 🙋‍♀️ About Me
 
+Hi! I'm a **research enthusiast in network security** and its applications using **AI**. I love challenging myself with complex problems, lately by exploring **AI agents**, and I enjoy digging deep until I truly understand how things work. 🔍
+
 ```python
 class Sriya:
     def __init__(self):
         self.name = "Sriya Sudakshina"
-        self.role = "B.Tech Student (3rd Year)"
-        self.university = "Amrita Vishwa Vidyapeetham"
-        self.location = "Coimbatore, Tamil Nadu, India 🇮🇳"
-        self.interests = ["Network Security", "Machine Learning",
-                          "Cryptography", "IoT & UAV Security"]
+        self.hometown = "Hyderabad, India 🇮🇳"
+        self.education = "B.Tech (3rd Year), Amrita Vishwa Vidyapeetham"
+        self.specialization = "Cyber Security 🔐"
+        self.research_interests = ["Network Security", "AI for Security",
+                                   "AI Agents", "IoT & UAV Security"]
         self.languages = ["C", "C++", "Python", "JavaScript", "HTML"]
-        self.currently_building = "Secure systems that detect and stop attacks 🔐"
+        self.personality = ["Curious", "Loves complex challenges", "Digs deep"]
         self.connect = "linkedin.com/in/sriya-sudakshina-4ba80a327"
 
     def say_hi(self):
