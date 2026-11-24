@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sriya32ssriya&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/sriya-sudakshina-4ba80a327">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
