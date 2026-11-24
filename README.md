@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/sriya-avatar.svg" width="220" alt="Cartoon avatar of Sriya" />
+  <img src="assets/sriya-avatar.svg" width="240" alt="Pixel art avatar of Sriya" />
 </p>
 
 <p align="center">
