@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/pixel-me.png" width="200" alt="Pixel art of Sriya" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=FF0080&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+Sriya+Sudakshina%2C+cyber+security+student;%24+cat+interests.txt;%3E+Network+Security+%2B+AI+%7C+AI+Agents;%24+status;%3E+Building+secure+systems%2C+one+project+at+a+time" alt="Typing SVG" />
   </a>
