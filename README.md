@@ -7,7 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Coimbatore,_Tamil_Nadu-555555?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
+  📍 Coimbatore, Tamil Nadu &nbsp;|&nbsp; 📧 <a href="mailto:sriyasudakshina1239new@gmail.com">sriyasudakshina1239new@gmail.com</a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sriya-sudakshina-4ba80a327">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -69,6 +72,7 @@ class Sriya:
         self.hackathons = ["Avinya Finalist, IIT Guwahati"]
         self.personality = ["Curious", "Loves complex challenges", "Digs deep"]
         self.free_time = "Building hands-on projects"
+        self.email = "sriyasudakshina1239new@gmail.com"
         self.connect = "linkedin.com/in/sriya-sudakshina-4ba80a327"
 
     def say_hi(self):
