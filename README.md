@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sriya Sudakshina</h1>
+<h1 align="center">Hi, I'm Sriya Sudakshina</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=3rd+Year+B.Tech+%40+Amrita+Vishwa+Vidyapeetham;Cyber+Security+Specialization+%F0%9F%94%90;Network+Security+%2B+AI+Research+%F0%9F%A4%96;Exploring+AI+Agents+%F0%9F%A7%A0;Building+secure+systems%2C+one+project+at+a+time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=3rd+Year+B.Tech+%40+Amrita+Vishwa+Vidyapeetham;Cyber+Security+Specialization;Network+Security+%2B+AI+Research;Exploring+AI+Agents;Building+secure+systems%2C+one+project+at+a+time" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,62 +14,62 @@
 
 ---
 
-### 🙋‍♀️ About Me
+### About Me
 
-Hey there! 👋 I'm Sriya, a curious mind from **Hyderabad** who loves figuring out how systems can be broken, and how to make them stronger. 🛡️
+Hey there! I'm Sriya, a curious mind from **Hyderabad** who loves figuring out how systems can be broken, and how to make them stronger.
 
-I'm in my 3rd year at **Amrita Vishwa Vidyapeetham**, specializing in **Cyber Security**. These days I'm most excited about **network security** and how **AI** can make it smarter. I'm the kind of person who can't leave a problem halfway. I keep digging until it finally makes sense. 🔍
+I'm in my 3rd year at **Amrita Vishwa Vidyapeetham**, specializing in **Cyber Security**. These days I'm most excited about **network security** and how **AI** can make it smarter. I'm the kind of person who can't leave a problem halfway. I keep digging until it finally makes sense.
 
-When I'm not in class, you'll usually find me **building hands-on projects** in my free time, trying out something new, or taking on a challenge that looks a little too hard at first. Right now that challenge is **AI agents**! 🤖
+When I'm not in class, you'll usually find me **building hands-on projects** in my free time, trying out something new, or taking on a challenge that looks a little too hard at first. Right now that challenge is **AI agents**!
 
 <details>
-<summary><b>🔭 What I'm exploring right now</b> (click to open)</summary>
+<summary><b>What I'm exploring right now</b> (click to open)</summary>
 <br>
 
-- 🤖 Building and experimenting with **AI agents**
-- 🧠 Using **machine learning** to detect network attacks
-- 🚁 Securing **IoT and drone (UAV)** communication
+- Building and experimenting with **AI agents**
+- Using **machine learning** to detect network attacks
+- Securing **IoT and drone (UAV)** communication
 
 </details>
 
 <details>
-<summary><b>🛠️ How I learn</b> (click to open)</summary>
+<summary><b>How I learn</b> (click to open)</summary>
 <br>
 
-- 💡 I learn best by **building things with my own hands**
-- 🧩 I enjoy breaking a complex problem into small pieces
-- 📚 I like reading research and then trying the ideas out myself
+- I learn best by **building things with my own hands**
+- I enjoy breaking a complex problem into small pieces
+- I like reading research and then trying the ideas out myself
 
 </details>
 
 <details>
-<summary><b>💬 Talk to me about</b> (click to open)</summary>
+<summary><b>Talk to me about</b> (click to open)</summary>
 <br>
 
-Network security · AI for security · AI agents · Cryptography · Cool project ideas 🚀
+Network security · AI for security · AI agents · Cryptography · Cool project ideas
 
 </details>
 
 <br>
 
-**And if you speak code, here's me in Python** 👇
+**And if you speak code, here's me in Python**
 
 ```python
 class Sriya:
     def __init__(self):
         self.name = "Sriya Sudakshina"
-        self.hometown = "Hyderabad, India 🇮🇳"
+        self.hometown = "Hyderabad, India"
         self.education = "B.Tech (3rd Year), Amrita Vishwa Vidyapeetham"
-        self.specialization = "Cyber Security 🔐"
+        self.specialization = "Cyber Security"
         self.research_interests = ["Network Security", "AI for Security",
                                    "AI Agents", "IoT & UAV Security"]
         self.languages = ["C", "C++", "Python", "JavaScript", "HTML"]
         self.personality = ["Curious", "Loves complex challenges", "Digs deep"]
-        self.free_time = "Building hands-on projects 🛠️"
+        self.free_time = "Building hands-on projects"
         self.connect = "linkedin.com/in/sriya-sudakshina-4ba80a327"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something secure together 🚀")
+        print("Thanks for dropping by! Let's build something secure together")
 
 
 me = Sriya()
@@ -78,7 +78,7 @@ me.say_hi()
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -108,13 +108,13 @@ me.say_hi()
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | What it does | Tech |
 |---|---|---|
-| 🔒 [SecureVault-Android](https://github.com/sriya32ssriya/SecureVault-Android) | Offline password vault with AES-GCM encryption and SHA-256 hashing | Kotlin · Jetpack Compose · MVVM |
-| 🛡️ [HTTP-Attack-Detection-ML](https://github.com/sriya32ssriya/HTTP-Attack-Detection-ML) | Detects malicious HTTP requests using Multinomial Naive Bayes | Python · ML |
-| 🚁 [mavlink-security-middleware](https://github.com/sriya32ssriya/mavlink-security-middleware) | Security middleware for UAV communication with attack detection | JavaScript |
-| 📡 [Contiki-ng-iot-routing-attack-evaluation](https://github.com/sriya32ssriya/Contiki-ng-iot-routing-attack-evaluation) | Blackhole and self-forwarding attack evaluation on 6LoWPAN, with detection and prevention | Contiki-NG · IoT |
-| ✍️ [DSS-and-Schnorr-Signature-Project](https://github.com/sriya32ssriya/DSS-and-Schnorr-Signature-Project) | Toy implementation of DSS and Schnorr digital signatures | C++ · HTML |
-| 🌳 [patricia-trie-visualization](https://github.com/sriya32ssriya/patricia-trie-visualization) | Interactive Patricia Trie visualization | HTML · JS |
+| [SecureVault-Android](https://github.com/sriya32ssriya/SecureVault-Android) | Offline password vault with AES-GCM encryption and SHA-256 hashing | Kotlin · Jetpack Compose · MVVM |
+| [HTTP-Attack-Detection-ML](https://github.com/sriya32ssriya/HTTP-Attack-Detection-ML) | Detects malicious HTTP requests using Multinomial Naive Bayes | Python · ML |
+| [mavlink-security-middleware](https://github.com/sriya32ssriya/mavlink-security-middleware) | Security middleware for UAV communication with attack detection | JavaScript |
+| [Contiki-ng-iot-routing-attack-evaluation](https://github.com/sriya32ssriya/Contiki-ng-iot-routing-attack-evaluation) | Blackhole and self-forwarding attack evaluation on 6LoWPAN, with detection and prevention | Contiki-NG · IoT |
+| [DSS-and-Schnorr-Signature-Project](https://github.com/sriya32ssriya/DSS-and-Schnorr-Signature-Project) | Toy implementation of DSS and Schnorr digital signatures | C++ · HTML |
+| [patricia-trie-visualization](https://github.com/sriya32ssriya/patricia-trie-visualization) | Interactive Patricia Trie visualization | HTML · JS |
