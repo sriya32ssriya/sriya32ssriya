@@ -59,7 +59,7 @@ class Sriya:
         self.specialization = "Cyber Security"
         self.research_interests = ["Network Security", "AI for Security",
                                    "AI Agents", "IoT & UAV Security"]
-        self.languages = ["C", "C++", "Python", "JavaScript", "HTML"]
+        self.languages = ["C", "C++", "Python", "HTML"]
         self.personality = ["Curious", "Loves complex challenges", "Digs deep"]
         self.free_time = "Building hands-on projects"
         self.connect = "linkedin.com/in/sriya-sudakshina-4ba80a327"
@@ -84,7 +84,7 @@ me.say_hi()
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,html" />
 </p>
 
 **Android & Frameworks**
@@ -101,11 +101,28 @@ me.say_hi()
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 </p>
 
+**Security Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0E0E0E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
+
 **Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,windows" />
 </p>
+
+---
+
+### 🏆 Hackathons
+
+| Project | Achievement and details |
+|---|---|
+| [urban-heat-island-mitigation-simulation](https://github.com/ankamteja/urban-heat-island-mitigation-simulation) | **Avinya finalist** (IIT Guwahati). Landsat 8 and Google Earth Engine analysis of Guwahati on a 100 m grid, with a dashboard that suggests where cooling measures would help most. |
 
 ---
 
