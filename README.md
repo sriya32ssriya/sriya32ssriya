@@ -140,4 +140,3 @@ me.say_hi()
 | 🚁 [mavlink-security-middleware](https://github.com/sriya32ssriya/mavlink-security-middleware) | Security middleware for UAV communication with attack detection | JavaScript |
 | 📡 [Contiki-ng-iot-routing-attack-evaluation](https://github.com/sriya32ssriya/Contiki-ng-iot-routing-attack-evaluation) | Blackhole and self-forwarding attack evaluation on 6LoWPAN, with detection and prevention | Contiki-NG · IoT |
 | ✍️ [DSS-and-Schnorr-Signature-Project](https://github.com/sriya32ssriya/DSS-and-Schnorr-Signature-Project) | Toy implementation of DSS and Schnorr digital signatures | C++ · HTML |
-| 🌳 [patricia-trie-visualization](https://github.com/sriya32ssriya/patricia-trie-visualization) | Interactive Patricia Trie visualization | HTML · JS |
