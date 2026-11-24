@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Sriya Sudakshina</h1>
+<h1 align="center">Hi 👋, I'm Sriya Sudakshina</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=3rd+Year+B.Tech+%40+Amrita+Vishwa+Vidyapeetham;Cyber+Security+Specialization;Network+Security+%2B+AI+Research;Exploring+AI+Agents;Building+secure+systems%2C+one+project+at+a+time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=3rd+Year+B.Tech+%40+Amrita+Vishwa+Vidyapeetham;Cyber+Security+Specialization+%F0%9F%94%90;Network+Security+%2B+AI+Research+%F0%9F%A4%96;Exploring+AI+Agents+%F0%9F%A7%A0;Building+secure+systems%2C+one+project+at+a+time" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,11 +16,7 @@
 
 ### About Me
 
-Hey there! I'm Sriya, a curious mind from **Hyderabad** who loves figuring out how systems can be broken, and how to make them stronger.
-
-I'm in my 3rd year at **Amrita Vishwa Vidyapeetham**, specializing in **Cyber Security**. These days I'm most excited about **network security** and how **AI** can make it smarter. I'm the kind of person who can't leave a problem halfway. I keep digging until it finally makes sense.
-
-When I'm not in class, you'll usually find me **building hands-on projects** in my free time, trying out something new, or taking on a challenge that looks a little too hard at first. Right now that challenge is **AI agents**!
+Hey there! I'm Sriya, a curious mind from **Hyderabad** in my 3rd year at **Amrita Vishwa Vidyapeetham**, specializing in **Cyber Security**. I'm a research enthusiast in **network security** and love exploring how **AI** can make it smarter. I can't leave a problem halfway, so I keep digging until it finally makes sense. In my free time I'm usually **building hands-on projects** or taking on a challenge that looks a little too hard at first, and right now that challenge is **AI agents**.
 
 <details>
 <summary><b>What I'm exploring right now</b> (click to open)</summary>
@@ -78,7 +74,7 @@ me.say_hi()
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
 
@@ -108,13 +104,13 @@ me.say_hi()
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
 | Project | What it does | Tech |
 |---|---|---|
-| [SecureVault-Android](https://github.com/sriya32ssriya/SecureVault-Android) | Offline password vault with AES-GCM encryption and SHA-256 hashing | Kotlin · Jetpack Compose · MVVM |
-| [HTTP-Attack-Detection-ML](https://github.com/sriya32ssriya/HTTP-Attack-Detection-ML) | Detects malicious HTTP requests using Multinomial Naive Bayes | Python · ML |
-| [mavlink-security-middleware](https://github.com/sriya32ssriya/mavlink-security-middleware) | Security middleware for UAV communication with attack detection | JavaScript |
-| [Contiki-ng-iot-routing-attack-evaluation](https://github.com/sriya32ssriya/Contiki-ng-iot-routing-attack-evaluation) | Blackhole and self-forwarding attack evaluation on 6LoWPAN, with detection and prevention | Contiki-NG · IoT |
-| [DSS-and-Schnorr-Signature-Project](https://github.com/sriya32ssriya/DSS-and-Schnorr-Signature-Project) | Toy implementation of DSS and Schnorr digital signatures | C++ · HTML |
-| [patricia-trie-visualization](https://github.com/sriya32ssriya/patricia-trie-visualization) | Interactive Patricia Trie visualization | HTML · JS |
+| 🔒 [SecureVault-Android](https://github.com/sriya32ssriya/SecureVault-Android) | Offline password vault with AES-GCM encryption and SHA-256 hashing | Kotlin · Jetpack Compose · MVVM |
+| 🛡️ [HTTP-Attack-Detection-ML](https://github.com/sriya32ssriya/HTTP-Attack-Detection-ML) | Detects malicious HTTP requests using Multinomial Naive Bayes | Python · ML |
+| 🚁 [mavlink-security-middleware](https://github.com/sriya32ssriya/mavlink-security-middleware) | Security middleware for UAV communication with attack detection | JavaScript |
+| 📡 [Contiki-ng-iot-routing-attack-evaluation](https://github.com/sriya32ssriya/Contiki-ng-iot-routing-attack-evaluation) | Blackhole and self-forwarding attack evaluation on 6LoWPAN, with detection and prevention | Contiki-NG · IoT |
+| ✍️ [DSS-and-Schnorr-Signature-Project](https://github.com/sriya32ssriya/DSS-and-Schnorr-Signature-Project) | Toy implementation of DSS and Schnorr digital signatures | C++ · HTML |
+| 🌳 [patricia-trie-visualization](https://github.com/sriya32ssriya/patricia-trie-visualization) | Interactive Patricia Trie visualization | HTML · JS |
