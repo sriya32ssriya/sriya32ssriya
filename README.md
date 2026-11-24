@@ -99,16 +99,3 @@ me.say_hi()
 | 📡 [Contiki-ng-iot-routing-attack-evaluation](https://github.com/sriya32ssriya/Contiki-ng-iot-routing-attack-evaluation) | Blackhole and self-forwarding attack evaluation on 6LoWPAN, with detection and prevention | Contiki-NG · IoT |
 | ✍️ [DSS-and-Schnorr-Signature-Project](https://github.com/sriya32ssriya/DSS-and-Schnorr-Signature-Project) | Toy implementation of DSS and Schnorr digital signatures | C++ · HTML |
 | 🌳 [patricia-trie-visualization](https://github.com/sriya32ssriya/patricia-trie-visualization) | Interactive Patricia Trie visualization | HTML · JS |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sriya32ssriya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriya32ssriya&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriya32ssriya&theme=tokyo-night&hide_border=true" />
-</p>
