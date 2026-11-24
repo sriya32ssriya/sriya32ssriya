@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sriya Sudakshina</h1>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,60:0b2a2b,100:0f4c4a&text=Sriya%20Sudakshina&fontColor=00ff9c&fontSize=56&fontAlignY=38&desc=Cyber%20Security%20%7C%20Network%20Security%20%2B%20AI&descAlignY=60&descSize=18&animation=fadeIn" alt="Sriya Sudakshina" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=3rd+Year+B.Tech+%40+Amrita+Vishwa+Vidyapeetham;Cyber+Security+Specialization+%F0%9F%94%90;Network+Security+%2B+AI+Research+%F0%9F%A4%96;Exploring+AI+Agents+%F0%9F%A7%A0;Building+secure+systems%2C+one+project+at+a+time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+Sriya+Sudakshina%2C+cyber+security+student;%24+cat+interests.txt;%3E+Network+Security+%2B+AI+%7C+AI+Agents;%24+status;%3E+Building+secure+systems%2C+one+project+at+a+time" alt="Typing SVG" />
   </a>
 </p>
 
