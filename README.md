@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Coimbatore,_Tamil_Nadu-555555?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
   <a href="https://www.linkedin.com/in/sriya-sudakshina-4ba80a327">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -55,6 +56,7 @@ class Sriya:
     def __init__(self):
         self.name = "Sriya Sudakshina"
         self.hometown = "Hyderabad, India"
+        self.location = "Coimbatore, Tamil Nadu"
         self.education = "B.Tech (3rd Year), Amrita Vishwa Vidyapeetham"
         self.specialization = "Cyber Security"
         self.research_interests = ["Network Security", "AI for Security",
